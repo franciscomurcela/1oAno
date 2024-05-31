@@ -1,0 +1,19 @@
+|miniP_P13
+clk => s_cout[0].CLK
+clk => s_cout[1].CLK
+clk => s_cout[2].CLK
+clk => s_cout[3].CLK
+enable => s_cout.OUTPUTSELECT
+enable => s_cout.OUTPUTSELECT
+enable => s_cout.OUTPUTSELECT
+enable => s_cout.OUTPUTSELECT
+reset => s_cout.OUTPUTSELECT
+reset => s_cout.OUTPUTSELECT
+reset => s_cout.OUTPUTSELECT
+reset => s_cout.OUTPUTSELECT
+cout[0] << s_cout[0].DB_MAX_OUTPUT_PORT_TYPE
+cout[1] << s_cout[1].DB_MAX_OUTPUT_PORT_TYPE
+cout[2] << s_cout[2].DB_MAX_OUTPUT_PORT_TYPE
+cout[3] << s_cout[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

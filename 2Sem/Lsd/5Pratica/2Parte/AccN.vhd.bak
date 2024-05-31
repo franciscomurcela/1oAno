@@ -1,0 +1,11 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity AccN is
+	generic(N : positive => N);
+	port(datain: in std_logic_vector(N-1 downto 0);
+	enable: in std_logic;
+	clk: in std_logic;
+	dataout:out std_logic_vector(N-1 downto 0);
+	

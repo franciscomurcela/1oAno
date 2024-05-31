@@ -1,0 +1,7 @@
+library ieee; use ieee.std_logic_1164.all;
+entity Talvez_Errada is
+ port(wrong, case, when, silly : in std_logic;
+ this : out std_logic_vector(3 downto 0));
+end Talvez_Errada;
+architecture Ri_di_cu_lous of Talvez_Errada is
+begin THIS <= wrong & case & when & silly; end Ri_di_cu_lous; --??

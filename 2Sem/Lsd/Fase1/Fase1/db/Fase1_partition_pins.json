@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "resetCounter",
+					"strict" : false
+				},
+				{
+					"name" : "deuceMode",
+					"strict" : false
+				},
+				{
+					"name" : "gameWin",
+					"strict" : false
+				},
+				{
+					"name" : "gameWinner[0]",
+					"strict" : false
+				},
+				{
+					"name" : "gameWinner[1]",
+					"strict" : false
+				},
+				{
+					"name" : "countPlayerA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "countPlayerB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "countPlayerA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "countPlayerB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "countPlayerA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "countPlayerB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

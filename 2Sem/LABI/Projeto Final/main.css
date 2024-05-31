@@ -1,0 +1,22 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-futbol-o {font-size:20px}
+
+header{
+    background-image: url(background2.jpg);
+    background-size: cover;
+}
+
+.w3-top{
+    background-image: url(.png);
+    background-size: cover;
+}
+
+.w3-top2{
+    background-image: url(fallback.png);
+    background-size: cover;
+}
+#back{
+    background-color: white;
+}
+

@@ -1,0 +1,7 @@
+
+State Machine - |SeqDetFSM|s_currentState
+Name s_currentState.E3 s_currentState.E2 s_currentState.E1 s_currentState.E0 
+s_currentState.E0 0 0 0 0 
+s_currentState.E1 0 0 1 1 
+s_currentState.E2 0 1 0 1 
+s_currentState.E3 1 0 0 1 

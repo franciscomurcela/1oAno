@@ -1,0 +1,16 @@
+|DrinksFSM
+clk => s_currentState~1.DATAIN
+C => s_nextState.DATAA
+C => comb_proc.IN0
+C => s_nextState.DATAA
+V => s_nextState.OUTPUTSELECT
+V => s_nextState.OUTPUTSELECT
+V => comb_proc.IN1
+V => Selector2.IN4
+V => Selector4.IN5
+V => Selector6.IN4
+V => Selector8.IN4
+reset <= s_reset.DB_MAX_OUTPUT_PORT_TYPE
+Abrir <= Abrir.DB_MAX_OUTPUT_PORT_TYPE
+
+

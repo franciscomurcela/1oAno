@@ -1,0 +1,94 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/simulation/modelsim
+Edrinksfsm
+Z1 w1653388266
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8C:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/DrinksFSM.vhd
+Z5 FC:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/DrinksFSM.vhd
+l0
+L4 1
+Vo5nQ=b=7V<?aCdENM[DEk2
+!s100 mcI`]EDM5]X>k6XzkG:EN2
+Z6 OV;C;2020.1;71
+31
+Z7 !s110 1653388735
+!i10b 1
+Z8 !s108 1653388734.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/DrinksFSM.vhd|
+Z10 !s107 C:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/DrinksFSM.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+Z13 DEx4 work 9 drinksfsm 0 22 o5nQ=b=7V<?aCdENM[DEk2
+!i122 0
+l18
+L12 85
+VZ_JOi2TmYRD1P>Sc3F>?N1
+!s100 1FMn:Q0FJX[T0G^FHFRf>1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edrinksfsmtb
+Z14 w1653388705
+R2
+R3
+!i122 2
+R0
+Z15 8C:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/DrinksFSMTb.vhd
+Z16 FC:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/DrinksFSMTb.vhd
+l0
+L4 1
+V:UO6>DM9cTN0;9?z5:UnL3
+!s100 hIAdWF_]>6B_jFa<C0]?O2
+R6
+32
+Z17 !s110 1653388813
+!i10b 1
+Z18 !s108 1653388813.000000
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/DrinksFSMTb.vhd|
+Z20 !s107 C:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/8Pratica/2Parte/DrinksFSMTb.vhd|
+!i113 1
+Z21 o-work work
+R12
+Astimulus
+R13
+R2
+R3
+Z22 DEx4 work 11 drinksfsmtb 0 22 :UO6>DM9cTN0;9?z5:UnL3
+!i122 2
+l14
+Z23 L6 34
+Z24 Vdd2Q?3`MYEAWWeQP65L7[3
+Z25 !s100 2I2DLMLFGU`M2dm_G9DN53
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R21
+R12

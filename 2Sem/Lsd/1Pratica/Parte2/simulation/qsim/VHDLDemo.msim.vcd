@@ -1,0 +1,109 @@
+$comment
+	File created using the following command:
+		vcd file VHDLDemo.msim.vcd -direction
+$end
+$date
+	Tue Mar 08 10:29:41 2022
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module AND2Gate_vlg_vec_tst $end
+$var reg 1 ! inPort0 $end
+$var reg 1 " inPort1 $end
+$var wire 1 # outPort $end
+
+$scope module i1 $end
+$var wire 1 $ gnd $end
+$var wire 1 % vcc $end
+$var wire 1 & unknown $end
+$var tri1 1 ' devclrn $end
+$var tri1 1 ( devpor $end
+$var tri1 1 ) devoe $end
+$var wire 1 * outPort~output_o $end
+$var wire 1 + inPort0~input_o $end
+$var wire 1 , inPort1~input_o $end
+$var wire 1 - outPort~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+0"
+0#
+0$
+1%
+x&
+1'
+1(
+1)
+0*
+1+
+0,
+0-
+$end
+#60000
+1"
+1,
+1-
+1*
+1#
+#120000
+0!
+0+
+0-
+0*
+0#
+#300000
+0"
+1!
+0,
+1+
+#360000
+1"
+0!
+1,
+0+
+#480000
+1!
+1+
+1-
+1*
+1#
+#540000
+0"
+0,
+0-
+0*
+0#
+#600000
+0!
+0+
+#660000
+1"
+1!
+1,
+1+
+1-
+1*
+1#
+#720000
+0"
+0!
+0,
+0+
+0-
+0*
+0#
+#780000
+1"
+1,
+#960000
+0"
+0,
+#1000000

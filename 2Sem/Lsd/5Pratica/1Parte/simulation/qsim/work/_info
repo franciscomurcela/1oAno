@@ -1,0 +1,150 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Asus/Documents/Disciplinas/2Sem/Lsd/5Pratica/simulation/qsim
+vCmpN
+Z1 !s110 1650358754
+!i10b 1
+!s100 :J?c`?OYnm]]dMj<W68cZ2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFINK8^8X:ahPM@jRgPn363
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1650358752
+8CmpN_Demo.vo
+FCmpN_Demo.vo
+!i122 0
+L0 32 676
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1650358754.000000
+!s107 CmpN_Demo.vo|
+!s90 -work|work|CmpN_Demo.vo|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@cmp@n
+Ecmpn
+Z9 w1650359360
+Z10 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z11 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 WOh:M[al;oVzG5c`<He>D0
+Z12 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z13 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z14 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z15 DPx10 cycloneive 21 cycloneive_components 0 22 zGMDhP>8e@2k@f0e<PY]k2
+!i122 12
+R0
+Z16 8CmpN_Demo.vho
+Z17 FCmpN_Demo.vho
+l0
+L35 1
+VWVe_>E0?@FZ[KjP6eS7Q?3
+!s100 z719FkR=zg:>6>JnC2SjV1
+Z18 OV;C;2020.1;71
+32
+Z19 !s110 1650359361
+!i10b 1
+Z20 !s108 1650359361.000000
+Z21 !s90 -work|work|CmpN_Demo.vho|
+Z22 !s107 CmpN_Demo.vho|
+!i113 1
+R7
+Z23 tExplicit 1 CvgOpt 0
+Astructure
+R10
+R11
+R12
+R13
+R14
+R15
+DEx4 work 4 cmpn 0 22 WVe_>E0?@FZ[KjP6eS7Q?3
+!i122 12
+l110
+L46 688
+VU`GRfTz`fjDXU_ib8VaNg3
+!s100 _PK[1njFnA4JeICa4^Z7>2
+R18
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R7
+R23
+Ecmpn_vhd_vec_tst
+Z24 w1650359359
+R13
+R14
+!i122 13
+R0
+Z25 8CmpN.vwf.vht
+Z26 FCmpN.vwf.vht
+l0
+L32 1
+V[YSYVa:41Wo?aPEh<3zHg0
+!s100 ABQJ[PCIRd;Oj;W?G8>CO3
+R18
+32
+R19
+!i10b 1
+R20
+Z27 !s90 -work|work|CmpN.vwf.vht|
+Z28 !s107 CmpN.vwf.vht|
+!i113 1
+R7
+R23
+Acmpn_arch
+R13
+R14
+Z29 DEx4 work 16 cmpn_vhd_vec_tst 0 22 [YSYVa:41Wo?aPEh<3zHg0
+!i122 13
+l53
+Z30 L34 425
+Z31 V6oHAb22?^oiXCN:_ebYnl2
+Z32 !s100 g8`=PY2Z?_mlNEnd`14aR2
+R18
+32
+R19
+!i10b 1
+R20
+R27
+R28
+!i113 1
+R7
+R23
+vCmpN_vlg_vec_tst
+R1
+!i10b 1
+!s100 GPXjVbHWjEXdFle>aZAB[0
+R2
+I0HL_fh@S[31g^XhTk=_>]2
+R3
+R0
+R4
+8CmpN.vwf.vt
+FCmpN.vwf.vt
+!i122 1
+L0 30 259
+R5
+r1
+!s85 0
+31
+R6
+!s107 CmpN.vwf.vt|
+!s90 -work|work|CmpN.vwf.vt|
+!i113 1
+R7
+R8
+n@cmp@n_vlg_vec_tst
