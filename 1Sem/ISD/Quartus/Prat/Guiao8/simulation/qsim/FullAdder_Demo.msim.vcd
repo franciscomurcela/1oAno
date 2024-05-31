@@ -1,0 +1,724 @@
+$comment
+	File created using the following command:
+		vcd file FullAdder_Demo.msim.vcd -direction
+$end
+$date
+	Tue Dec 14 15:35:17 2021
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module bit4fulladder_vhd_vec_tst $end
+$var wire 1 ! A [3] $end
+$var wire 1 " A [2] $end
+$var wire 1 # A [1] $end
+$var wire 1 $ A [0] $end
+$var wire 1 % ADD_n $end
+$var wire 1 & B [3] $end
+$var wire 1 ' B [2] $end
+$var wire 1 ( B [1] $end
+$var wire 1 ) B [0] $end
+$var wire 1 * Cout $end
+$var wire 1 + Overflow $end
+$var wire 1 , S [3] $end
+$var wire 1 - S [2] $end
+$var wire 1 . S [1] $end
+$var wire 1 / S [0] $end
+
+$scope module i1 $end
+$var wire 1 0 gnd $end
+$var wire 1 1 vcc $end
+$var wire 1 2 unknown $end
+$var wire 1 3 devoe $end
+$var wire 1 4 devclrn $end
+$var wire 1 5 devpor $end
+$var wire 1 6 ww_devoe $end
+$var wire 1 7 ww_devclrn $end
+$var wire 1 8 ww_devpor $end
+$var wire 1 9 ww_Cout $end
+$var wire 1 : ww_A [3] $end
+$var wire 1 ; ww_A [2] $end
+$var wire 1 < ww_A [1] $end
+$var wire 1 = ww_A [0] $end
+$var wire 1 > ww_B [3] $end
+$var wire 1 ? ww_B [2] $end
+$var wire 1 @ ww_B [1] $end
+$var wire 1 A ww_B [0] $end
+$var wire 1 B ww_ADD_n $end
+$var wire 1 C ww_Overflow $end
+$var wire 1 D ww_S [3] $end
+$var wire 1 E ww_S [2] $end
+$var wire 1 F ww_S [1] $end
+$var wire 1 G ww_S [0] $end
+$var wire 1 H \Cout~output_o\ $end
+$var wire 1 I \Overflow~output_o\ $end
+$var wire 1 J \S[3]~output_o\ $end
+$var wire 1 K \S[2]~output_o\ $end
+$var wire 1 L \S[1]~output_o\ $end
+$var wire 1 M \S[0]~output_o\ $end
+$var wire 1 N \A[3]~input_o\ $end
+$var wire 1 O \B[3]~input_o\ $end
+$var wire 1 P \ADD_n~input_o\ $end
+$var wire 1 Q \A[2]~input_o\ $end
+$var wire 1 R \B[2]~input_o\ $end
+$var wire 1 S \A[1]~input_o\ $end
+$var wire 1 T \B[1]~input_o\ $end
+$var wire 1 U \A[0]~input_o\ $end
+$var wire 1 V \B[0]~input_o\ $end
+$var wire 1 W \inst1|inst3~combout\ $end
+$var wire 1 X \inst3|inst3~combout\ $end
+$var wire 1 Y \inst4~combout\ $end
+$var wire 1 Z \inst3|inst1~combout\ $end
+$var wire 1 [ \inst2|inst1~combout\ $end
+$var wire 1 \ \inst1|inst1~combout\ $end
+$var wire 1 ] \inst|inst0~combout\ $end
+$var wire 1 ^ \ALT_INV_B[0]~input_o\ $end
+$var wire 1 _ \ALT_INV_A[0]~input_o\ $end
+$var wire 1 ` \ALT_INV_B[1]~input_o\ $end
+$var wire 1 a \ALT_INV_A[1]~input_o\ $end
+$var wire 1 b \ALT_INV_B[2]~input_o\ $end
+$var wire 1 c \ALT_INV_A[2]~input_o\ $end
+$var wire 1 d \ALT_INV_ADD_n~input_o\ $end
+$var wire 1 e \ALT_INV_B[3]~input_o\ $end
+$var wire 1 f \ALT_INV_A[3]~input_o\ $end
+$var wire 1 g \inst1|ALT_INV_inst3~combout\ $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1%
+0*
+0+
+00
+11
+x2
+13
+14
+15
+16
+17
+18
+09
+1B
+0C
+0H
+0I
+1J
+1K
+1L
+0M
+1N
+1O
+1P
+0Q
+0R
+0S
+1T
+0U
+0V
+0W
+0X
+0Y
+1Z
+1[
+1\
+0]
+1^
+1_
+0`
+1a
+1b
+1c
+0d
+0e
+0f
+1g
+1!
+0"
+0#
+0$
+1&
+0'
+1(
+0)
+1:
+0;
+0<
+0=
+1>
+0?
+1@
+0A
+1D
+1E
+1F
+0G
+1,
+1-
+1.
+0/
+$end
+#60000
+0&
+1'
+0(
+1)
+1A
+0@
+1?
+0>
+0O
+1R
+0T
+1V
+0^
+1`
+0b
+1e
+1X
+1Y
+0Z
+0[
+1]
+1M
+0K
+0J
+1I
+1H
+1G
+0E
+0D
+1C
+19
+1/
+0-
+0,
+1+
+1*
+#120000
+1&
+0'
+0!
+1"
+1#
+1$
+0?
+1>
+1=
+1<
+1;
+0:
+0N
+1Q
+1S
+1U
+1O
+0R
+1b
+0e
+0_
+0a
+0c
+1f
+1W
+0]
+0X
+1Z
+0g
+1[
+1J
+0H
+0M
+1D
+09
+0G
+0/
+1,
+0*
+1K
+1E
+1-
+#180000
+1'
+0"
+1(
+1@
+1?
+0;
+0Q
+1R
+1T
+0`
+0b
+1c
+0Y
+0Z
+0\
+0L
+0J
+0I
+0F
+0D
+0C
+0.
+0,
+0+
+#240000
+1"
+0&
+0$
+0=
+1;
+0>
+0O
+1Q
+0U
+1_
+0c
+1e
+1X
+0[
+0W
+1\
+1]
+1g
+0X
+1Z
+1[
+1M
+1L
+0K
+1H
+1G
+1F
+0E
+19
+1/
+1.
+0-
+1*
+1K
+1J
+0H
+1E
+1D
+09
+1-
+1,
+0*
+#300000
+0"
+1&
+1$
+0(
+0#
+1=
+0<
+0;
+0@
+1>
+1O
+0T
+0Q
+0S
+1U
+0_
+1a
+1c
+1`
+0e
+0Z
+0[
+1W
+0\
+0]
+0g
+1[
+0M
+0L
+0K
+0J
+0G
+0F
+0E
+0D
+0/
+0.
+0-
+0,
+1K
+1E
+1-
+#360000
+0&
+0$
+1#
+0'
+1!
+0?
+0>
+0=
+1<
+1:
+1N
+1S
+0U
+0O
+0R
+1b
+1e
+1_
+0a
+0f
+1]
+1X
+1Z
+0[
+0K
+1J
+1H
+1M
+0E
+1D
+19
+1G
+1/
+0-
+1,
+1*
+#420000
+1$
+1'
+0!
+1"
+1(
+1=
+1;
+0:
+1@
+1?
+1R
+1T
+0N
+1Q
+1U
+0_
+0c
+1f
+0`
+0b
+0Z
+0]
+0M
+0J
+0G
+0D
+0/
+0,
+#480000
+0'
+0"
+0)
+0%
+0A
+0?
+0;
+0B
+0P
+0Q
+0R
+0V
+1^
+1b
+1c
+1d
+0X
+1[
+1]
+1M
+1K
+0H
+1G
+1E
+09
+1/
+1-
+0*
+#540000
+1%
+0$
+0(
+1&
+1B
+0=
+0@
+1>
+1O
+0T
+0U
+1P
+0d
+1_
+1`
+0e
+0]
+1Y
+1Z
+0[
+1\
+1L
+0K
+1J
+1I
+0M
+1F
+0E
+1D
+1C
+0G
+0/
+1.
+0-
+1,
+1+
+#600000
+0%
+1(
+0&
+1)
+0B
+1A
+1@
+0>
+0O
+1T
+1V
+0P
+1d
+0^
+0`
+1e
+1]
+0Y
+0Z
+1[
+0\
+0L
+1K
+0J
+0I
+1M
+0F
+1E
+0D
+0C
+1G
+1/
+0.
+1-
+0,
+0+
+#660000
+0(
+1&
+1'
+1!
+0@
+1?
+1>
+1:
+1N
+1O
+1R
+0T
+1`
+0b
+0e
+0f
+1X
+1Z
+0[
+0W
+1\
+1g
+1Y
+0Z
+1[
+1L
+0K
+1J
+1H
+1F
+0E
+1D
+19
+1.
+0-
+1,
+1*
+1K
+0J
+1I
+1E
+0D
+1C
+1-
+0,
+1+
+#720000
+1(
+1"
+0#
+1@
+0<
+1;
+1Q
+0S
+1T
+0`
+1a
+0c
+0Y
+1Z
+0[
+0K
+1J
+0I
+0E
+1D
+0C
+0-
+1,
+0+
+#780000
+0(
+0"
+1#
+0'
+0)
+1$
+0A
+0@
+0?
+1=
+1<
+0;
+0Q
+1S
+1U
+0R
+0T
+0V
+1^
+1`
+1b
+0_
+0a
+1c
+1Y
+0Z
+0J
+1I
+0D
+1C
+0,
+1+
+#840000
+0#
+1'
+1)
+0$
+1%
+0=
+0<
+1A
+1?
+1B
+1P
+1R
+1V
+0S
+0U
+1_
+1a
+0^
+0b
+0d
+0X
+0Y
+1Z
+1J
+0I
+0H
+1D
+0C
+09
+1,
+0+
+0*
+#900000
+0'
+0)
+0%
+0!
+0A
+0?
+0B
+0:
+0N
+0P
+0R
+0V
+1^
+1b
+1d
+1f
+0\
+0]
+0M
+0L
+0G
+0F
+0/
+0.
+#960000
+1)
+1%
+1#
+1$
+1"
+1A
+1B
+1=
+1<
+1;
+1Q
+1S
+1U
+1P
+1V
+0^
+0d
+0_
+0a
+0c
+1Y
+1W
+1\
+0g
+1[
+1L
+1I
+1F
+1C
+1.
+1+
+1K
+1E
+1-
+#1000000

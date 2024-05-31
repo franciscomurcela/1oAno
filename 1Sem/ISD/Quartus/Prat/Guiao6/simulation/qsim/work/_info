@@ -1,0 +1,292 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guião 6/simulation/qsim
+Edec2_4
+Z0 w1638287231
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 3HQPc5MVbmOPN?>a5EBYj2
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx8 cyclonev 19 cyclonev_components 0 22 jZ]H46BQLgIP5mfRTO`3B1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z7 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 ^Ch;U@;bMk1;>A2B<UV`k2
+!i122 0
+Z8 dC:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao6/simulation/qsim
+Z9 8DecoderDemo.vho
+Z10 FDecoderDemo.vho
+l0
+Z11 L37 1
+VYUCm<CRXcK:`36eGf1E]S0
+!s100 Uj0XLdPSRKBlC?WU6C?F00
+Z12 OV;C;2020.1;71
+32
+Z13 !s110 1638287236
+!i10b 1
+Z14 !s108 1638287236.000000
+Z15 !s90 -work|work|DecoderDemo.vho|
+Z16 !s107 DecoderDemo.vho|
+!i113 1
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 6 dec2_4 0 22 YUCm<CRXcK:`36eGf1E]S0
+!i122 0
+l85
+L50 217
+V:iJoji6RbB>7VgCiIN;Q63
+!s100 Q4agC5j6<Y`eVG7JUdnLb3
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+vDec2_4
+Z19 !s110 1638876191
+!i10b 1
+!s100 >U]maTn14PZ9c?jIlCOd73
+Z20 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?=N<@D:NP`0LZXk;YA0gO0
+Z21 VDg1SIo80bB@j0V0VzS_@n1
+R8
+w1638876190
+Z22 8DecoderDemo.vo
+Z23 FDecoderDemo.vo
+!i122 12
+L0 32 244
+Z24 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z25 !s108 1638876191.000000
+Z26 !s107 DecoderDemo.vo|
+Z27 !s90 -work|work|DecoderDemo.vo|
+!i113 1
+R17
+Z28 tCvgOpt 0
+n@dec2_4
+Edec2_4_vhd_vec_tst
+Z29 w1638287230
+R5
+R6
+!i122 1
+R8
+Z30 8GateDemo.vwf.vht
+Z31 FGateDemo.vwf.vht
+l0
+Z32 L32 1
+V]RWc]K44[[FXan`?6Mgb51
+!s100 ]VeFd2Xj9^IV`eVA>UBS00
+R12
+32
+R13
+!i10b 1
+R14
+Z33 !s90 -work|work|GateDemo.vwf.vht|
+Z34 !s107 GateDemo.vwf.vht|
+!i113 1
+R17
+R18
+Adec2_4_arch
+R5
+R6
+DEx4 work 18 dec2_4_vhd_vec_tst 0 22 ]RWc]K44[[FXan`?6Mgb51
+!i122 1
+l57
+L34 91
+VhTcg?DhoUocFE5]WmTTRn3
+!s100 <5`QYQXUU5cbBCUW3bD^H1
+R12
+32
+R13
+!i10b 1
+R14
+R33
+R34
+!i113 1
+R17
+R18
+vDec2_4_vlg_vec_tst
+R19
+!i10b 1
+!s100 L8WUXIGa<Z0jC>HQcL`kP0
+R20
+IlOfOc<Hd9MQPzlaz1ch4O3
+R21
+R8
+w1638876189
+Z35 8simDEC4_16.vwf.vt
+Z36 FsimDEC4_16.vwf.vt
+!i122 13
+L0 30 58
+R24
+r1
+!s85 0
+31
+R25
+Z37 !s107 simDEC4_16.vwf.vt|
+Z38 !s90 -work|work|simDEC4_16.vwf.vt|
+!i113 1
+R17
+R28
+n@dec2_4_vlg_vec_tst
+vDec4_16
+Z39 !s110 1638876494
+!i10b 1
+!s100 IK]2o44bzk13HW208jlSl1
+R20
+IGV=a5o;P;JQKEg9nT6@ek2
+R21
+R8
+w1638876492
+R22
+R23
+!i122 16
+L0 32 907
+R24
+r1
+!s85 0
+31
+Z40 !s108 1638876494.000000
+R26
+R27
+!i113 1
+R17
+R28
+n@dec4_16
+Edec4_16
+Z41 w1638879089
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+!i122 22
+R8
+R9
+R10
+l0
+R11
+V]BjN>R[NY9BD6;i`F;i@C3
+!s100 Eb18KbLCfznRgI58`=hG?2
+R12
+32
+Z42 !s110 1638879091
+!i10b 1
+Z43 !s108 1638879090.000000
+R15
+R16
+!i113 1
+R17
+R18
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 7 dec4_16 0 22 ]BjN>R[NY9BD6;i`F;i@C3
+!i122 22
+l153
+L65 762
+VV]bOLOR^82hk_<MiQLf<P1
+!s100 k?`LbQ<0?ZCdME2SXg7hj3
+R12
+32
+R42
+!i10b 1
+R43
+R15
+R16
+!i113 1
+R17
+R18
+Edec4_16_vhd_vec_tst
+Z44 w1638879088
+R5
+R6
+!i122 23
+R8
+Z45 8DecoderDemo3.vwf.vht
+Z46 FDecoderDemo3.vwf.vht
+l0
+R32
+V;@g>m?f0WI1ROMPD1d7YN3
+!s100 MD=[C3B@>?Hl1Gf]VmgmS3
+R12
+32
+R42
+!i10b 1
+Z47 !s108 1638879091.000000
+Z48 !s90 -work|work|DecoderDemo3.vwf.vht|
+!s107 DecoderDemo3.vwf.vht|
+!i113 1
+R17
+R18
+Adec4_16_arch
+R5
+R6
+Z49 DEx4 work 19 dec4_16_vhd_vec_tst 0 22 ;@g>m?f0WI1ROMPD1d7YN3
+!i122 23
+l87
+Z50 L34 152
+V0lT4`kKFcc?gh5kGc;P513
+!s100 G>CYeeMm^UKTVM2Wn;>O01
+R12
+32
+R42
+!i10b 1
+R47
+R48
+Z51 !s107 DecoderDemo3.vwf.vht|
+!i113 1
+R17
+R18
+vDec4_16_vlg_vec_tst
+R39
+!i10b 1
+!s100 i9P9jSRQ:zbm<S2Wl?o8M0
+R20
+Izl8eVG4T91@Q;T08gSfeV2
+R21
+R8
+w1638876491
+R35
+R36
+!i122 17
+L0 30 114
+R24
+r1
+!s85 0
+31
+R40
+R37
+R38
+!i113 1
+R17
+R28
+n@dec4_16_vlg_vec_tst

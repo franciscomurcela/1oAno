@@ -1,0 +1,18 @@
+|EncoderDemo
+A2 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+y7 => inst.IN0
+y7 => inst1.IN0
+y7 => inst2.IN0
+y5 => inst.IN1
+y5 => inst2.IN3
+y4 => inst.IN2
+y6 => inst.IN3
+y6 => inst1.IN3
+A1 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+y2 => inst1.IN1
+y3 => inst1.IN2
+y3 => inst2.IN1
+A0 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+y1 => inst2.IN2
+
+

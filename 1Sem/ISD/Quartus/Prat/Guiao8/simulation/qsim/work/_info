@@ -1,0 +1,268 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao8/simulation/qsim
+v\4bitFullAdder 
+!s110 1639495740
+!i10b 1
+!s100 oJ=:mAHN]7H^6857gK5^d2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`fD8VmPZDnEhTSk>ei7^>2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1639495739
+Z3 8FullAdder_Demo.vo
+Z4 FFullAdder_Demo.vo
+!i122 10
+L0 32 412
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1639495740.000000
+Z6 !s107 FullAdder_Demo.vo|
+Z7 !s90 -work|work|FullAdder_Demo.vo|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@1344bit@full@adder@134
+Ebit4fulladder
+Z10 w1639496115
+Z11 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z12 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 3HQPc5MVbmOPN?>a5EBYj2
+Z13 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z14 DPx8 cyclonev 19 cyclonev_components 0 22 jZ]H46BQLgIP5mfRTO`3B1
+Z15 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z16 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z17 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 ^Ch;U@;bMk1;>A2B<UV`k2
+!i122 13
+R0
+Z18 8FullAdder_Demo.vho
+Z19 FFullAdder_Demo.vho
+l0
+Z20 L37 1
+Vk6[jJ8n;Kj_fEogOZjm^g1
+!s100 XIY?:jE2Ll6V;BSeVIYG^1
+Z21 OV;C;2020.1;71
+32
+Z22 !s110 1639496116
+!i10b 1
+Z23 !s108 1639496116.000000
+Z24 !s90 -work|work|FullAdder_Demo.vho|
+Z25 !s107 FullAdder_Demo.vho|
+!i113 1
+R8
+Z26 tExplicit 1 CvgOpt 0
+Astructure
+R11
+R12
+R13
+R14
+R15
+R16
+R17
+DEx4 work 13 bit4fulladder 0 22 k6[jJ8n;Kj_fEogOZjm^g1
+!i122 13
+l97
+L48 379
+Vm3m9JCDX7J@En??_>M5Xg0
+!s100 GKG;:@Po`nZ[XQY6YiNSL0
+R21
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R8
+R26
+Ebit4fulladder_vhd_vec_tst
+R10
+R15
+R16
+!i122 14
+R0
+Z27 8FullAdder_Demo.vwf.vht
+Z28 FFullAdder_Demo.vwf.vht
+l0
+Z29 L32 1
+VTbV0`bT95k=UDcEa@kSYJ3
+!s100 hGJ2b_oL^:IG;:oKD>F=S2
+R21
+32
+R22
+!i10b 1
+R23
+Z30 !s90 -work|work|FullAdder_Demo.vwf.vht|
+Z31 !s107 FullAdder_Demo.vwf.vht|
+!i113 1
+R8
+R26
+Abit4fulladder_arch
+R15
+R16
+Z32 DEx4 work 25 bit4fulladder_vhd_vec_tst 0 22 TbV0`bT95k=UDcEa@kSYJ3
+!i122 14
+l53
+L34 226
+ViMNBL3jQ=kmH?SPB[I3n]2
+!s100 o]DCE?Mz<<G@VnAfzN;6J1
+R21
+32
+R22
+!i10b 1
+R23
+R30
+R31
+!i113 1
+R8
+R26
+vFullAdder_Demo
+Z33 !s110 1639495606
+!i10b 1
+!s100 MHPJjQe@RmE?]2O1Q^:1J3
+R1
+I;^2FMdE@M0XOZ0jFHT66[3
+R2
+R0
+w1639495605
+R3
+R4
+!i122 8
+L0 32 143
+R5
+r1
+!s85 0
+31
+Z34 !s108 1639495606.000000
+R6
+R7
+!i113 1
+R8
+R9
+n@full@adder_@demo
+Efulladder_demo
+Z35 w1639495583
+R11
+R12
+R13
+R14
+R15
+R16
+R17
+!i122 6
+R0
+R18
+R19
+l0
+R20
+VEc7lc_NEKDQE]Nk<VfKTI1
+!s100 DV30LTone1MWY^62zIm=h1
+R21
+32
+Z36 !s110 1639495583
+!i10b 1
+Z37 !s108 1639495583.000000
+R24
+R25
+!i113 1
+R8
+R26
+Astructure
+R11
+R12
+R13
+R14
+R15
+R16
+R17
+DEx4 work 14 fulladder_demo 0 22 Ec7lc_NEKDQE]Nk<VfKTI1
+!i122 6
+l73
+L47 130
+V1>>1Z3ijZb[WNYRmzf`hW3
+!s100 AGK>Ye][F==BkO>f_P?_?1
+R21
+32
+R36
+!i10b 1
+R37
+R24
+R25
+!i113 1
+R8
+R26
+Efulladder_demo_vhd_vec_tst
+Z38 w1639495582
+R15
+R16
+!i122 7
+R0
+R27
+R28
+l0
+R29
+VMc<5jJe>ac2iK^e8D^KhP1
+!s100 6P_Lm7V@TcmLTQ9dZlF6:2
+R21
+32
+Z39 !s110 1639495584
+!i10b 1
+Z40 !s108 1639495584.000000
+R30
+R31
+!i113 1
+R8
+R26
+Afulladder_demo_arch
+R15
+R16
+DEx4 work 26 fulladder_demo_vhd_vec_tst 0 22 Mc<5jJe>ac2iK^e8D^KhP1
+!i122 7
+l51
+L34 28
+Vk@hB7R[l0NF^[g:WZ906V2
+!s100 OV9]K^Z>J`FITieUeI0mo2
+R21
+32
+R39
+!i10b 1
+R40
+R30
+R31
+!i113 1
+R8
+R26
+vFullAdder_Demo_vlg_vec_tst
+R33
+!i10b 1
+!s100 o9`f^[zZDPL`@?D[7<bPH0
+R1
+IoJ85eTzAZ_3=@>c[SO`EK0
+R2
+R0
+w1639495604
+8FullAdder_Demo.vwf.vt
+FFullAdder_Demo.vwf.vt
+!i122 9
+L0 30 20
+R5
+r1
+!s85 0
+31
+R34
+!s107 FullAdder_Demo.vwf.vt|
+!s90 -work|work|FullAdder_Demo.vwf.vt|
+!i113 1
+R8
+R9
+n@full@adder_@demo_vlg_vec_tst

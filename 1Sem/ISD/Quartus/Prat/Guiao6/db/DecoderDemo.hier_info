@@ -1,0 +1,136 @@
+|DecoderDemo3
+f <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+x0 => Dec4_16:inst.x0
+x1 => Dec4_16:inst.x1
+x2 => Dec4_16:inst.x2
+x3 => Dec4_16:inst.x3
+e1 => Dec4_16:inst.E1
+e0 => Dec4_16:inst.E0
+gnd => Dec4_16:inst.gnd
+
+
+|DecoderDemo3|Dec4_16:inst
+y15 <= Dec2_4:inst14.y3
+x0 => Dec2_4:inst14.x0
+x0 => Dec2_4:inst15.x0
+x0 => Dec2_4:inst16.x0
+x0 => Dec2_4:inst17.x0
+x1 => Dec2_4:inst14.x1
+x1 => Dec2_4:inst15.x1
+x1 => Dec2_4:inst16.x1
+x1 => Dec2_4:inst17.x1
+x2 => Dec2_4:inst13.x0
+x3 => Dec2_4:inst13.x1
+E1 => Dec2_4:inst13.E1
+E0 => Dec2_4:inst13.E0
+gnd => Dec2_4:inst14.E0
+gnd => Dec2_4:inst15.E0
+gnd => Dec2_4:inst16.E0
+gnd => Dec2_4:inst17.E0
+y14 <= Dec2_4:inst14.y2
+y13 <= Dec2_4:inst14.y1
+y12 <= Dec2_4:inst14.y0
+y11 <= Dec2_4:inst15.y3
+y10 <= Dec2_4:inst15.y2
+y9 <= Dec2_4:inst15.y1
+y8 <= Dec2_4:inst15.y0
+y7 <= Dec2_4:inst16.y3
+y6 <= Dec2_4:inst16.y2
+y5 <= Dec2_4:inst16.y1
+y4 <= Dec2_4:inst16.y0
+y3 <= Dec2_4:inst17.y3
+y2 <= Dec2_4:inst17.y2
+y1 <= Dec2_4:inst17.y1
+y0 <= Dec2_4:inst17.y0
+
+
+|DecoderDemo3|Dec4_16:inst|Dec2_4:inst14
+y2 <= 2.DB_MAX_OUTPUT_PORT_TYPE
+E1 => 2.IN0
+E1 => 1.IN0
+E1 => 3.IN0
+E1 => 4.IN0
+E0 => inst.IN0
+x1 => 2.IN2
+x1 => 1.IN2
+x1 => inst6.IN0
+x0 => inst7.IN0
+x0 => 1.IN3
+x0 => 3.IN3
+y3 <= 1.DB_MAX_OUTPUT_PORT_TYPE
+y1 <= 3.DB_MAX_OUTPUT_PORT_TYPE
+y0 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|DecoderDemo3|Dec4_16:inst|Dec2_4:inst13
+y2 <= 2.DB_MAX_OUTPUT_PORT_TYPE
+E1 => 2.IN0
+E1 => 1.IN0
+E1 => 3.IN0
+E1 => 4.IN0
+E0 => inst.IN0
+x1 => 2.IN2
+x1 => 1.IN2
+x1 => inst6.IN0
+x0 => inst7.IN0
+x0 => 1.IN3
+x0 => 3.IN3
+y3 <= 1.DB_MAX_OUTPUT_PORT_TYPE
+y1 <= 3.DB_MAX_OUTPUT_PORT_TYPE
+y0 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|DecoderDemo3|Dec4_16:inst|Dec2_4:inst15
+y2 <= 2.DB_MAX_OUTPUT_PORT_TYPE
+E1 => 2.IN0
+E1 => 1.IN0
+E1 => 3.IN0
+E1 => 4.IN0
+E0 => inst.IN0
+x1 => 2.IN2
+x1 => 1.IN2
+x1 => inst6.IN0
+x0 => inst7.IN0
+x0 => 1.IN3
+x0 => 3.IN3
+y3 <= 1.DB_MAX_OUTPUT_PORT_TYPE
+y1 <= 3.DB_MAX_OUTPUT_PORT_TYPE
+y0 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|DecoderDemo3|Dec4_16:inst|Dec2_4:inst16
+y2 <= 2.DB_MAX_OUTPUT_PORT_TYPE
+E1 => 2.IN0
+E1 => 1.IN0
+E1 => 3.IN0
+E1 => 4.IN0
+E0 => inst.IN0
+x1 => 2.IN2
+x1 => 1.IN2
+x1 => inst6.IN0
+x0 => inst7.IN0
+x0 => 1.IN3
+x0 => 3.IN3
+y3 <= 1.DB_MAX_OUTPUT_PORT_TYPE
+y1 <= 3.DB_MAX_OUTPUT_PORT_TYPE
+y0 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|DecoderDemo3|Dec4_16:inst|Dec2_4:inst17
+y2 <= 2.DB_MAX_OUTPUT_PORT_TYPE
+E1 => 2.IN0
+E1 => 1.IN0
+E1 => 3.IN0
+E1 => 4.IN0
+E0 => inst.IN0
+x1 => 2.IN2
+x1 => 1.IN2
+x1 => inst6.IN0
+x0 => inst7.IN0
+x0 => 1.IN3
+x0 => 3.IN3
+y3 <= 1.DB_MAX_OUTPUT_PORT_TYPE
+y1 <= 3.DB_MAX_OUTPUT_PORT_TYPE
+y0 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+
+

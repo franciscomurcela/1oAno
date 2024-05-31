@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao6/pt3/EncoderDemo.bdf
+source_file = 1, C:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao6/pt3/EncoderDEmo.vwf
+source_file = 1, C:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao6/pt3/db/EncoderDemo.cbx.xml
+design_name = EncoderDemo
+instance = comp, \A2~output\, A2~output, EncoderDemo, 1
+instance = comp, \A1~output\, A1~output, EncoderDemo, 1
+instance = comp, \A0~output\, A0~output, EncoderDemo, 1
+instance = comp, \y4~input\, y4~input, EncoderDemo, 1
+instance = comp, \y6~input\, y6~input, EncoderDemo, 1
+instance = comp, \y7~input\, y7~input, EncoderDemo, 1
+instance = comp, \y5~input\, y5~input, EncoderDemo, 1
+instance = comp, \y2~input\, y2~input, EncoderDemo, 1
+instance = comp, \y3~input\, y3~input, EncoderDemo, 1
+instance = comp, \y1~input\, y1~input, EncoderDemo, 1

@@ -1,0 +1,9 @@
+|MEF
+Q[0] <= <GND>
+Q[1] <= <GND>
+Q[2] <= <GND>
+X => ~NO_FANOUT~
+Reset => ~NO_FANOUT~
+Clock => ~NO_FANOUT~
+
+

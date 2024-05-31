@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao7/MuxDemo.bdf
+source_file = 1, C:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao7/Mux16.1
+source_file = 1, C:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao7/MuxDemo3.bdf
+source_file = 1, C:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao7/MuxDemo3.vwf
+source_file = 1, C:/Users/Asus/Documents/Disciplinas/ISD/Quartus/Prat/Guiao7/MuxDemo4.bdf
+source_file = 1, c:/intelfpga_lite/20.1/quartus/libraries/others/maxplus2/74157.bdf
+design_name = MuxDemo4
+instance = comp, \f~output\, f~output, MuxDemo4, 1
+instance = comp, \d~input\, d~input, MuxDemo4, 1
+instance = comp, \c~input\, c~input, MuxDemo4, 1
+instance = comp, \a~input\, a~input, MuxDemo4, 1
+instance = comp, \b~input\, b~input, MuxDemo4, 1
+instance = comp, \inst|inst4|23~0\, inst|inst4|23~0, MuxDemo4, 1
