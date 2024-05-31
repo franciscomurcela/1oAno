@@ -1,0 +1,6 @@
+tempo = int(input("Segundos? "))
+min2 = (tempo//60)
+s = (tempo%60)
+h = (min2//60)
+m = (min2%60)
+print("{:02d}:{:02d}:{:02d}".format(h, m, s))
